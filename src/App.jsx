@@ -44,7 +44,7 @@ const App = () => {
   
   const router = createBrowserRouter(
     createRoutesFromElements(
-      <Route path='/' element={<MainLayout />}>
+      <Route path='/ReactCrashCourse-2024' element={<MainLayout />}>
         <Route index element={<HomePage />} />
         <Route path='/jobs' element={<JobsPage/>}/>
         <Route path='/add-job' element={<AddJobPage addJobSubmit={addJob}/>} />
