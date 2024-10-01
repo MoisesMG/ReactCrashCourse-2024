@@ -3,9 +3,10 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/reactcrashcourse-2024/',
   plugins: [react()],
   server: {
-    port: 3000,
+    host: true,
     proxy: {
       '/api':{
         target: 'http://localhost:8000',
