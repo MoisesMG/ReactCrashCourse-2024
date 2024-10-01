@@ -1,20 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1",
-      "title": "Senior React Developer",
-      "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
-      "location": "Boston, MA",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "NewTek Solutions",
-        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
-        "contactEmail": "contact@teksolutions.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
       "id": "2",
       "title": "Front-End Engineer (React & Redux)",
       "type": "Full-Time",
@@ -57,20 +43,6 @@
       }
     },
     {
-      "id": "5",
-      "title": "Full Stack React Developer",
-      "type": "Full-Time",
-      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
-      "location": "Atlanta, GA",
-      "salary": "$90K - $100K",
-      "company": {
-        "name": "Browning Technologies",
-        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
-        "contactEmail": "contact@consecteturadipisicing.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
       "id": "6",
       "title": "React Native Developer",
       "type": "Full-Time",
@@ -85,12 +57,12 @@
       }
     },
     {
-      "id": "21f3",
-      "type": "Full-Time",
-      "title": "React + Laravel Developer",
+      "id": "03d6",
+      "type": "Remote",
+      "title": "Vue JS Dev",
       "location": "Managua, Nicaragua",
-      "description": "Request Mid/Senior full stack developer",
-      "salary": "$60K - 70K",
+      "description": "Request front-end developer",
+      "salary": "$50K - 60K",
       "company": {
         "name": "Igdrasil Code",
         "description": "Web development company",
