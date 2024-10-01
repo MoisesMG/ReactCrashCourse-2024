@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/reactcrashcourse-2024/',
+  base: '/ReactCrashCourse-2024',
   plugins: [react()],
   server: {
     host: true,
