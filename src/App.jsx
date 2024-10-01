@@ -53,7 +53,7 @@ const App = () => {
         <Route path='*' element={<NotFoundPage />} />
       </Route>
       
-    )
+    ), { basename: "/ReactCrashCourse-2024" }
   )
   return <RouterProvider router={router} />
 }
